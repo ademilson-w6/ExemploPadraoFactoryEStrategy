@@ -1,4 +1,5 @@
 public interface Imposto {
 
-    double calcular();
+
+    double calcular(double valor);
 }
